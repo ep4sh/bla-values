@@ -7,3 +7,6 @@ kube-state-metrics:
 prometheus-node-exporter:
   enabled: false
 
+prometheus-node-exporter:
+  enabled: false
+
